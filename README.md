@@ -19,3 +19,6 @@ https://www.favicon-generator.org
 DNS 서버는 이름을 IP 주소로 변환하여 도메인 이름을 웹 브라우저에 입력할 때, 최종 사용자를 어떤 서버에 연결할 것인지를 제어한다. 
 이러한 요청을 '쿼리'라 한다. 
 
+### robots.txt & sitemap.xml  검색 최적화시키기
+https://searchadvisor.naver.com/
+https://www.xml-sitemaps.com
