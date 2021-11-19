@@ -7,7 +7,7 @@ cool-test 쿨병 검사 테스트 웹 만들기
 
 # 3. 이미지 
 ## 메인화면 
-![image](https://user-images.githubusercontent.com/52391780/142600960-4590a7b3-b6f5-4590-8d4e-fd84e6d4b05d.png)
+![image](https://user-images.githubusercontent.com/52391780/142601040-ef484f84-85bc-4359-8b44-2d093b3ce5c2.png)
 
 ## 테스트 이미지
 ![image](https://user-images.githubusercontent.com/52391780/142600923-3a08731c-93f6-4521-b401-66b71c425a22.png)
