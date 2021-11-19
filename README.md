@@ -7,14 +7,13 @@ cool-test 쿨병 검사 테스트 웹 만들기
 
 # 3. 이미지 
 ## 메인화면 
-![image](https://user-images.githubusercontent.com/52391780/142601040-ef484f84-85bc-4359-8b44-2d093b3ce5c2.png)
+<img src="https://user-images.githubusercontent.com/52391780/142601040-ef484f84-85bc-4359-8b44-2d093b3ce5c2.png" width="400px" height="500px">
 
 ## 테스트 이미지
-![image](https://user-images.githubusercontent.com/52391780/142600923-3a08731c-93f6-4521-b401-66b71c425a22.png)
+<img src="https://user-images.githubusercontent.com/52391780/142600923-3a08731c-93f6-4521-b401-66b71c425a22.png" width="400px" height="500px">
 
 ## 5개 yes인 경우 
-
-![image](https://user-images.githubusercontent.com/52391780/142600811-6ac62e83-1768-40f9-8300-436d67be50c8.png)
+<img src="https://user-images.githubusercontent.com/52391780/142600811-6ac62e83-1768-40f9-8300-436d67be50c8.png" width="400px" height="500px">
 
 
 
