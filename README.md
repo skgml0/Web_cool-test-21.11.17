@@ -1,5 +1,21 @@
-# cool-test
-쿨병 검사 테스트 웹 만들기
+# 1.목표 
+cool-test 쿨병 검사 테스트 웹 만들기
+
+# 2. 개발 환경
+- Visual Studio Code (html, css, js)
+- netlify , 가비아 도메인 
+
+# 3. 이미지 
+## 메인화면 
+![image](https://user-images.githubusercontent.com/52391780/142600558-e3a0fc37-d2a3-4ed2-8c53-c03b39f81e1e.png)
+
+## 테스트 이미지
+![image](https://user-images.githubusercontent.com/52391780/142600616-3ac0ab09-b208-4ebb-95a4-068f18f0588a.png)
+
+## 5개 yes인 경우 
+
+![image](https://user-images.githubusercontent.com/52391780/142600811-6ac62e83-1768-40f9-8300-436d67be50c8.png)
+
 
 
 
