@@ -16,10 +16,8 @@ cool-test 쿨병 검사 테스트 웹 만들기
 <img src="https://user-images.githubusercontent.com/52391780/142600811-6ac62e83-1768-40f9-8300-436d67be50c8.png" width="400px" height="500px">
 
 
-
-
-### netlify 배포 사이트 
-https://app.netlify.com/sites/inspiring-babbage-7914f4/overview
+### 가비아 배포
+https://yellow-ing.shop/
 
 or git 배포
 
